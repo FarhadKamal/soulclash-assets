@@ -1,7 +1,7 @@
 {
   "assets/badge/beast.png": "9a53f6df8a",
   "assets/badge/blade_hit.png": "b3062e2e24",
-  "assets/badge/friendship.png": "f2bf5d528b",
+  "assets/badge/friendship.png": "80c238b6ad",
   "assets/badge/glory_smash.png": "74209b1c15",
   "assets/badge/seal_heart.png": "a260fd3db7",
   "assets/badge/skull.png": "35edd625fe",
@@ -263,6 +263,7 @@
   "assets/images/grimtal/beast_attack.jpg": "c09254212b",
   "assets/images/grimtal/beast_end.jpg": "463fb292c2",
   "assets/images/grimtal/beast_heal.jpg": "21b7eb3d00",
+  "assets/images/grimtal/beast_rewound.jpg": "11ea3cefde",
   "assets/images/grimtal/beast_start.jpg": "6e8794d60b",
   "assets/images/grimtal/beast_stone.jpg": "057a29e11e",
   "assets/images/grimtal/bomb_hit.jpg": "4f4292a050",
